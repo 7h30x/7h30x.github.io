@@ -1,5 +1,5 @@
-# blog
-personal blog website
+# blog  
+personal blog website  
 **About This Site:**  
 This website is a personal blog documenting the journey of taking a coding bootcamp with Hacktiv8 in Jakarta, Indonesia
 
